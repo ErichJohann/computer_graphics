@@ -1,0 +1,14 @@
+{
+  "name": "aaced6ddf20e7345",
+  "main": "aaced6ddf20e7345@199.js",
+  "version": "199.0.0",
+  "homepage": "https://observablehq.com/d/aaced6ddf20e7345",
+  "author": {
+    "name": "aaaaaaaaaaaaaa",
+    "url": "https://observablehq.com/@aaaaaaaaaaaaaa2"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
